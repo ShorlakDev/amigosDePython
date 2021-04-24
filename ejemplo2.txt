@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+Juan Camilo Sepulveda
+BAYRON PEREA MENA
+=======
 agregando al para practicar
+>>>>>>> a9475e82fc1bb7c694f978c12c862af65f25bbb3
